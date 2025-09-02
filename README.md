@@ -125,7 +125,7 @@ Contributions are welcome!
 
 **Harsh Sharma**  
 - GitHub: [Btw-Harsh](https://github.com/Btw-Harsh)  
-- LinkedIn: *(add your link here)*  
+- LinkedIn: *https://www.linkedin.com/in/harsh-sharma-98809730b/* 
 
 ---
 
