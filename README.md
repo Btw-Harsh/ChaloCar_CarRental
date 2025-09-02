@@ -102,7 +102,7 @@ It allows customers to browse available cars, book rentals, and manage reservati
 
 - ✅ Project setup (MERN stack)  
 - ✅ User authentication (JWT + MongoDB)  
-- ⬜ Car listing page  
+- ✅ Car listing page  
 - ⬜ Booking system  
 - ⬜ Admin panel  
 - ⬜ Payment gateway integration  
